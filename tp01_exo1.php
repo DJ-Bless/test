@@ -1,4 +1,4 @@
-<?php $dir = 'TP01'; include('../header.php'); ?>
+<html>
 
 <h1>Etat civil</h1>
 <p>
@@ -22,4 +22,4 @@
 </p>
 <h1>Expériences professionnelles</h1>
 
-<?php include('../footer.php'); ?>
+</html>
